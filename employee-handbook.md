@@ -12,20 +12,25 @@ We follow an agenda to keep things focused and on schedule. The agenda
 is as follows:
 
 * Lows and Highs
+
   Each of us talks about our individual low and high for the past week.
   It can be anything &emdash; work or personal or both.
 * Client Health
+
   A recap by the [Guide](roles/guide-role.md) of the health of the
   projects on the schedule. The goal is to get the entire team up to
   speed about wins and potential trouble spots.
 * Podcast
+
   [Mitch](@mitchlloyd) updates everyone on prior episode analytics,
   upcoming guests and needs. Guest and topic ideas are also proposed.
 * Blog
+
   [Joel](@joelturnbull) is currently serving as blog editor. He reviews
   analytics, talks about posts that performed well over the past week
   and reviews the status of upcoming posts.
 * [Thunder Thursday](#thunder-thursday) Speakers
+
   We line up the [Thunder Thursday](#thunder-thursday) speakers for the
   week. Once chosen, the fridge magnets are updated.
 
