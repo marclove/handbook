@@ -71,3 +71,25 @@
    * Technology Stipend
    * Health/Fitness
 
+## Inspiration
+
+Lots of companies have handbooks, but a few of them make them publicly
+available. We were motivated to do the same by these fine folks:
+
+* [dojo4](http://https://github.com/dojo4/policy)
+* [thoughtbot](https://github.com/thoughtbot/guides)
+
+We're also interested in [B Corporations](http://www.bcorporation.net/).
+We took quite a bit of inspiration from there, also.
+
+Gaslight Handbook is maintained by [Gaslight](https://gaslight.co).
+
+## License
+
+Gaslight Handbook is © 2013 Gaslight, LLC. It is distributed under the [Creative
+Commons Attribution License](http://creativecommons.org/licenses/by/3.0/).
+
+The names and logos for Gaslight are trademarks of Gaslight, LLC.
+
+![Gaslight Logo](assets/images/horizontal-logo.png)
+
