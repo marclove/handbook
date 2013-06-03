@@ -38,8 +38,10 @@ our community.
 
 Learning is critical in order for our business to thrive. We want to
 solve problems the best way we know how, and we want to stay on top of
-the trends and best practices. We encourage learning by making it
-intentional.
+the trends and best practices. In fact, we'd like to drive these things
+instead of just keeping up with others around us. We do this by investing in
+learning. We also value learning because curiousity and discovery are things
+we want to encourage. We encourage learning by making it intentional.
 
 We give our people time dedicated to learning and growing. We send them
 to conferences, training classes and by keeping a library.
@@ -58,6 +60,10 @@ just a service provider.
 
 We're always working toward those goals of communication, trust and
 value. We want clients who are interested in the same.
+
+We also dedicate company time to building internal tools. At times, we may
+also work on products that we may have intentions of selling. Lastly, we also
+build things that are beneficial for the community.
 
 ## Sharing
 
