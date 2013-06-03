@@ -1,11 +1,13 @@
-# Our Values
+# About Gaslight
 
-## Shared Purpose
+## Values
+
+### Shared Purpose
 
 > Gaslight exists to inspire creators to learn, build and share great
 things with our community.
 
-## History
+### History
 
 In 2009, a few independent developers decided to stop being so, well,
 independent. We liked writing code and solving problems for our clients,
@@ -22,7 +24,7 @@ As we grew and took on more projects, we made the decision to switch
 from independent contractors to employees and to create a more
 traditional company structure.
 
-### Why the Switch?
+#### Why the Switch?
 
 We found that we were hitting limitations as individuals and the only
 way to take things to the next level was to share and trust more of each

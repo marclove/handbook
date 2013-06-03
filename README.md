@@ -3,9 +3,11 @@
 ## Table of Contents
 
 1. About Gaslight
-  1. Shared Purpose
-  1. History
-  1. About our Purpose
+  1. [Shared Purpose](values.md#shared-purpose)
+  1. [History](values.md#history)
+  1. [Learning Explained](values.md#learning)
+  1. [Building Explained](values.md#building)
+  1. [Sharing Explained](values.md#sharing)
 1. Learning
   1. Conferences
 1. Building
