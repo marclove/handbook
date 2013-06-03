@@ -41,4 +41,31 @@
   1. Blogging
   1. Podcast
   1. Workshops
+1. Employee Handbook
+   *  Expectations
+      * amount, value and quality of your work
+      * integration with us
+      * demeanor
+      * professional initiative
+   * Operational Details
+      * Time Tracking
+      * Project Status
+   * Money
+      * forms
+      * direct deposit
+      * bonuses
+   * Communications and Operations
+      * weekly team meetings
+      * retreats and retrospectives
+      * gravatar
+      * google apps
+      * github
+      * etc
+   * Benefits
+      * Health Insurance
+      * Paid Leave
+      * Office Holidays
+   * Professional Development
+   * Technology Stipend
+   * Health/Fitness
 
