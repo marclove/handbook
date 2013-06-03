@@ -80,3 +80,15 @@ We're teachers. We want to share what we've learned with our community.
 We do that by teaching workshops in person and online, by blogging and
 podcasting and by participating and hosting user groups.
 
+## Balance between the three
+
+Learning, building, and sharing each have value. However, they are of limited
+value in isolation. Spending a week learning about the newest technologies or
+agile theory is really only valuable if it is applied when building something,
+or when shared with others. If all time is spent building solutions for
+clients, our skills may became stagnated. If we don't have knowledge or
+haven't built something of value, we will have nothing to share. In short,
+every action we participate in will likely include some level of learning,
+building, and sharing. If a proposed action doesn't involve most or all of
+these three, it probably isn't something that we should do, or spend much time
+on.
