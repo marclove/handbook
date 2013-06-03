@@ -55,7 +55,8 @@
       * direct deposit
       * bonuses
    * Communications and Operations
-      * weekly team meetings
+      * [Weekly All Hands
+        Meeting](employee-handbook.md#weekly-all-hands-meeting)
       * retreats and retrospectives
       * gravatar
       * google apps
