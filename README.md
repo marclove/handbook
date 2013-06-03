@@ -12,7 +12,7 @@
     1. Consulting
         1. Our Process
             1. The Players
-                1. The Guide Role
+                1. [The Guide Role](roles/guide-role.md)
                 1. The Developer Role
                 1. The Designer Role
                 1. The Product Owner
