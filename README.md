@@ -57,6 +57,7 @@
    * Communications and Operations
       * [Weekly All Hands
         Meeting](employee-handbook.md#weekly-all-hands-meeting)
+      * [Thunder Thursday](employee-handbook.md#thunder-thursday)
       * retreats and retrospectives
       * gravatar
       * google apps
