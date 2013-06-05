@@ -1,5 +1,24 @@
 # Employee Handbook
 
+## Money
+
+### Forms
+
+### Direct Deposit
+
+### Online Payroll System
+
+You can view your pay stubs using the payroll provider's system.
+
+* Visit [http://www.cyberpayonline.com/ecp/payreview.php](http://www.cyberpayonline.com/ecp/payreview.php)
+* Select "Create Login"
+* Follow the steps
+* Employer ID is **G02E**
+
+You will also need the net pay of one of your paychecks during the
+enrollment process. I suggest you get that by logging into your home
+banking system and getting the check date and amount.
+
 ## Communications and Operations
 
 ### Weekly All Hands Meeting
