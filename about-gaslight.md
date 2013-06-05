@@ -38,8 +38,10 @@ our community.
 
 Learning is critical in order for our business to thrive. We want to
 solve problems the best way we know how, and we want to stay on top of
-the trends and best practices. We encourage learning by making it
-intentional.
+the trends and best practices. In fact, we'd like to drive these things
+instead of just keeping up with others around us. We do this by investing in
+learning. We also value learning because curiousity and discovery are things
+we want to encourage. We encourage learning by making it intentional.
 
 We give our people time dedicated to learning and growing. We send them
 to conferences, training classes and by keeping a library.
@@ -59,6 +61,10 @@ just a service provider.
 We're always working toward those goals of communication, trust and
 value. We want clients who are interested in the same.
 
+We also dedicate company time to building internal tools. At times, we may
+also work on products that we may have intentions of selling. Lastly, we also
+build things that are beneficial for the community.
+
 ## Sharing
 
 Sharing things that we've learned is important, as we've all grown from
@@ -74,3 +80,15 @@ We're teachers. We want to share what we've learned with our community.
 We do that by teaching workshops in person and online, by blogging and
 podcasting and by participating and hosting user groups.
 
+## Balance between the three
+
+Learning, building, and sharing each have value. However, they are of limited
+value in isolation. Spending a week learning about the newest technologies or
+agile theory is really only valuable if it is applied when building something,
+or when shared with others. If all time is spent building solutions for
+clients, our skills may became stagnated. If we don't have knowledge or
+haven't built something of value, we will have nothing to share. In short,
+every action we participate in will likely include some level of learning,
+building, and sharing. If a proposed action doesn't involve most or all of
+these three, it probably isn't something that we should do, or spend much time
+on.
