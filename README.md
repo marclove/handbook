@@ -78,6 +78,7 @@ available. We were motivated to do the same by these fine folks:
 
 * [dojo4](http://https://github.com/dojo4/policy)
 * [thoughtbot](https://github.com/thoughtbot/guides)
+* [Valve](http://www.valvesoftware.com/)
 
 We're also interested in [B Corporations](http://www.bcorporation.net/).
 We took quite a bit of inspiration from there, also.
