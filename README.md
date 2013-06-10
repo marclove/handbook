@@ -11,7 +11,7 @@
 1. Learning
   1. Conferences
 1. Building
-    1. Consulting
+    1. Projects
         1. Our Process
             1. The Players
                 1. [The Guide Role](roles/guide-role.md)
@@ -37,6 +37,8 @@
                 1. Pair Programming
                 1. Test Driven Development
                 1. Code Review
+    1. Gaslight
+        1. [Kanban](process/kanban.md)
 1. Sharing
   1. Blogging
   1. Podcast
