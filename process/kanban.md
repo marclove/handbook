@@ -39,7 +39,7 @@ helping others on the team.
 
 ## The Board
 
-![](assets/images/kanban.jpg)
+![](../assets/images/kanban.jpg)
 
 Currently, the board is located on the whiteboard in the back conference
 room. Ideally, the board will be located in the large, shared workspace
