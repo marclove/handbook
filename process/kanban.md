@@ -56,14 +56,26 @@ opportunity to help when needed.
 ## How it Works
 
 The board is very simple, which is intentional. Cards map one-to-one
-with a story or card in the software tracker used on each project. We've
-simplified the overall process so that shared states can be used across
-all projects. For example, a story in the "Started" state in Pivotal
-Tracker would be moved to the Build state on our Kanban board.
+with a story or card in the software tracker used on each project. Our
+physical board is the authoritative source and the software trackers
+should be up to date with the physical board. One of our goals is to
+increase visibility and sharing, so that others can see when they have a
+chance to help on all projects.  We've simplified the overall process so
+that shared states can be used across all projects. For example, a story
+in the "Started" state in Pivotal Tracker would be moved to the Build
+state on our Kanban board.
 
 As you move stories through the process, keep the physical card in sync.
 Once you've completed development, move the card to the Ready column so
 that someone knows it's time for design review and can jump in to help.
+
+Because Kanban is a pull system, you can't simply move the card to the
+next work phase when you're done with it. It's important that whoever is
+doing the next work phase be able to pull the work into their queue when
+they are ready for it. That means they need to be able to distinguish
+between work in your queue that is still in progress and work that is
+ready for them to pull. For that reason, each of the columns are split
+into "in progress" and "ready".
 
 If you're blocked by a work in progress limitation upstream, you've got
 some slack time. Slack time is built in to the system to prevent
