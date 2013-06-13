@@ -19,7 +19,7 @@ appealing. You're quickly able to identify where work is needed as well
 as where there is too much work happening.
 
 Kanban is exciting because it distributes the workload as needed. By
-placing limits on each column, no one are gets overloaded.
+placing limits on each column, no one gets overloaded.
 
 ### About Kaizen
 
