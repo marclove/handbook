@@ -86,7 +86,7 @@ Learning, building, and sharing each have value. However, they are of limited
 value in isolation. Spending a week learning about the newest technologies or
 agile theory is really only valuable if it is applied when building something,
 or when shared with others. If all time is spent building solutions for
-clients, our skills may became stagnated. If we don't have knowledge or
+clients, our skills may stagnate. If we don't have knowledge or
 haven't built something of value, we will have nothing to share. In short,
 every action we participate in will likely include some level of learning,
 building, and sharing. If a proposed action doesn't involve most or all of
