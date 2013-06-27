@@ -54,6 +54,7 @@
       * forms
       * direct deposit
       * bonuses
+      * [Accessing Pay Stubs](benefits/payroll.md)
    * Communications and Operations
       * [Weekly All Hands
         Meeting](employee-handbook.md#weekly-all-hands-meeting)
