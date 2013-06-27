@@ -88,14 +88,19 @@ differently.
   important to us because the past becomes an excellent predictor of the
   future.
 
-  [more info][wallen]
-
 * Lead Time
 
   Lead time is the time it takes for a new card to go from planned to
   delivered and in production. It's important to us because we always
   want that time to decrease. We want to get better at delivery of
   features as soon as we possibly can.
+
+You can read more about work in progress, cycle time, throughput and
+lead time here:
+
+  * [Wayne Allen's Blog][wallen]
+  * [Stefan Roock's Blog][lead and cycle]
+  * [AvailAgility][availagility]
 
 ## Financial
 
@@ -120,4 +125,7 @@ differently.
 [semaphore]: http://semaphore.com
 [wallen]:
 http://weblogs.asp.net/wallen/archive/2008/10/23/throughput-vs-velocity.aspx
-
+[lead and cycle]:
+http://stefanroock.wordpress.com/2010/03/02/kanban-definition-of-lead-time-and-cycle-time/
+[availagility]:
+http://availagility.co.uk/2008/10/28/kanban-flow-and-cadence/
