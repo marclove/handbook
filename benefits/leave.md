@@ -9,19 +9,21 @@ possible.
 Communicate with your team, clients, and management about the leave you
 will be taking.
 
-## Medical Insurance
+## During a Leave
+
+### Medical Insurance
 
 Unless otherwise stated, and to the extent allowed by the insurance
 contract, we will continue to provide medical insurance coverage during
 your leave. During this time, you will be responsible for paying the
 monthly premium(s) for your coverage.
 
-## Benefits/Reviews
+### Benefits/Reviews
 
 Unless otherwise stated, your benefits will not continue to accrue, and
 you will not receive quarterly reviews during the period of leave.
 
-## Other Employment
+### Other Employment
 
 While on leave, employees may not accept other employment or apply for
 unemployment insurance. Acceptance of other employment while on leave
