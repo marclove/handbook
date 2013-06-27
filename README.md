@@ -41,6 +41,7 @@
   1. Blogging
   1. Podcast
   1. Workshops
+1. Becoming a Gaslighter
 1. Employee Handbook
    *  Expectations
       * amount, value and quality of your work
@@ -93,4 +94,3 @@ Commons Attribution License](http://creativecommons.org/licenses/by/3.0/).
 The names and logos for Gaslight are trademarks of Gaslight, LLC.
 
 ![Gaslight Logo](assets/images/horizontal-logo.png)
-
