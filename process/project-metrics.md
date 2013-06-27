@@ -58,6 +58,45 @@ differently.
   
   KPI: Build Status (pass/fail)
 
+* Work in Progress
+
+  Too many things happening at once can lead to all of them being
+  implemented poorly. Our focus should be deliberate on one feature at a
+  time as often as possible.
+
+  > "You have to make every single detail perfect. And you have to limit
+  > the number of details."
+  > <br />-- <cite>Jack Dorsey, founder of Twitter and Square</cite>
+
+* Cycle Time
+
+  Cycle time is defined as work in progress divided by the average
+  completion rate. The cycle time clock starts when work begins on the
+  request and ends when the item is ready for delivery.
+
+  > Cycle Time = WIP / Average Completion Rate
+
+* Throughput
+
+  Throughput is the number of things that can be done in a given amount
+  of time. It's calculated by dividing work in progress by cycle time.
+
+  > Throughput = WIP/Cycle Time
+
+  Since throughput relies on actual start and finish times we can derive
+  a predictive measure for forecasting without any estimating. This is
+  important to us because the past becomes an excellent predictor of the
+  future.
+
+  [more info][wallen]
+
+* Lead Time
+
+  Lead time is the time it takes for a new card to go from planned to
+  delivered and in production. It's important to us because we always
+  want that time to decrease. We want to get better at delivery of
+  features as soon as we possibly can.
+
 ## Financial
 
 * Receivables
@@ -77,6 +116,7 @@ differently.
 
   KPI: Weekly rate (% of goal)
 
-
-
 [semaphore]: http://semaphore.com
+[wallen]:
+http://weblogs.asp.net/wallen/archive/2008/10/23/throughput-vs-velocity.aspx
+
