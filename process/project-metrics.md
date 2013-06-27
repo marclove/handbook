@@ -37,11 +37,11 @@ differently.
 
 * CodeClimate
 
-  CodeClimate is a service we use to automatically check the codebase
-  for things like duplication, complexity and security vulnerabilities.
-  The result is a "GPA" which consists of grades across many files
-  within the application. The trend of the GPA is a good indicator of
-  how the code quality is improving or declining.
+  [CodeClimate][codeclimate] is a service we use to automatically check
+  the codebase for things like duplication, complexity and security
+  vulnerabilities.  The result is a "GPA" which consists of grades
+  across many files within the application. The trend of the GPA is a
+  good indicator of how the code quality is improving or declining.
 
   KPI: CodeClimate GPA (0.0 - 4.0)
 
@@ -116,6 +116,7 @@ differently.
 
   KPI: Weekly rate (% of goal)
 
+[codeclimate]: http://codeclimate.com
 [semaphore]: http://semaphore.com
 [wallen]:
 http://weblogs.asp.net/wallen/archive/2008/10/23/throughput-vs-velocity.aspx
