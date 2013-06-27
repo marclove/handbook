@@ -66,7 +66,7 @@
    * Benefits
       * Health Insurance
       * Paid Leave
-      * Office Holidays
+      * [Office Holidays](benefits/holidays.md)
    * Professional Development
    * Technology Stipend
    * Health/Fitness
