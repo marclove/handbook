@@ -1,8 +1,8 @@
 # Becoming a Gaslighter
 
-One of the original motivations for creating Gaslight was create a
-place where awesome people could work together. We are always
-open to talking with interesting people about working together.
+One of the original motivations for creating Gaslight was to create a
+place where awesome people could work together. We are always open to
+talking with interesting people about working together.
 
 Eventually, everyone who is a "gaslighter" is a full-time employee. We
 value pair programming, teamwork, and collaboration. At this time we
