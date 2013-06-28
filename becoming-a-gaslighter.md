@@ -6,7 +6,7 @@ open to talking with interesting people about working together.
 
 Eventually, everyone who is a "gaslighter" is a full-time employee. We
 value pair programming, teamwork, and collaboration. At this time we
-are all co-located. Occationally someone will work from home, but the
+are all co-located. Occasionally, someone will work from home, but the
 majority of time is spent in our office, working closely with other
 people.
 
@@ -16,13 +16,13 @@ There are really two sides to this question. Our team makeup and
 health are our top priority. We want to know how your values map to
 ours and how your character strengths match ours. We can sometimes
 tell how well someone fits socially and value-wise through an
-interview, but sometimes not. Really, the only way to be sure is
+interview, but not always. Really, the only way to be sure is
 through time.
 
-The other side is the technical skills you possess and how well those
+The other side are the technical skills you possess and how well those
 mesh with our skill set. That may be easiest for us to determine for
 developers, but designers, project managers, office managers,
-accountants, salespeople all have techical skills.
+accountants, salespeople all have technical skills.
 
 The answer to both questions, values and skills, can only really be
 measured with time. An hour during the interview isn't enough time for
@@ -32,7 +32,7 @@ or may not correspond to the role we're looking to hire.
 ## Let's do stuff
 
 Ideally, the best way for us to learn more about you is to work
-together. For developers we'd like to pair program together. For
+together. For developers we'd like to pair program with you. For
 designers we'd like to work on a project and try to integrate your
 work with ours.
 
@@ -43,15 +43,15 @@ out a way to make that work.
 
 We could go as far as to hire you as a sub-contractor for a week to
 work on a client project. This really gives us a view into how you'll
-fit in, your skill level in relavent technologies, and your personal
+fit in, your skill level in relevant technologies, and your personal
 process. We'll also see you demonstrate your character and values in
 real situations. This also gives you time to see how we really run
 projects; not just words on our blog or user groups.
 
-This is a big commitment from you and from us to organize. If you're a
-full-time employee it might mean taking a week off to come work with
-us. If you're a freelancer, it could mean significantly adjusting your
-schedule to fit a week in with us.
+This is a big commitment for both of us. If you're a full-time employee
+it could mean taking a week off to come work with us. If you're a
+freelancer, it could mean significantly adjusting your schedule to fit a
+week in with us.
 
 We understand this is hard to do, but it gives us the best feel for
 how we'll work together. If you are a freelancer and have
@@ -61,7 +61,7 @@ to integrate you in on a project.
 ### Apprenticeship, Internship, and Co-ops
 
 We have been hiring co-ops each term for well over a year. We have
-very low structure in our office. The team is self-organizing around
+very low structure in our office. Each team is self-organizing around
 our current initiatives and projects. This can make it challenging for
 someone new to figure out where they fit in; particularly if they
 don't have a lot of experience.
@@ -83,14 +83,14 @@ with you.
 ### Nights and Weekends
 
 Given the level of team collaboration we use, it's tricky for us to
-work together using nights and weekends. As a rule, we pursue
-"sustainable pace." That means we rarely do client work in off hours.
+work together using nights and weekends. As a rule, we pursue a
+"sustainable pace." That means we rarely do client work off hours.
 
 We do participate in community events regularly in the evenings;
-especially the Cincinnati.rb, Cincy.js, and the cocoa-dev group. Over
+especially Cincinnati.rb, Cincy.js, and the Cincy Cocoa Dev group. Over
 time we get to establish longer term relationships with people through
 those groups. In fact, Gaslight itself came out of relationships
-formed in the xp-cininnati group. If you're not already participating
+formed in the XP Cincinnati group. If you're not already participating
 in a local user group, you should. Engaging in our local community and
 sharing what we know is one of our core values.
 
@@ -117,3 +117,4 @@ it?
 
 If you want to work with us, say so. We'll try to find a way to make
 it happen.
+
