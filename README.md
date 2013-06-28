@@ -26,7 +26,7 @@
                 1. Testing and Accepting
                 1. Rejecting
             1. Scoring a Project
-                1. Key Metrics
+                1. [Key Metrics](process/project-metrics.md)
                 1. Scoring Algorithm
                 1. Interpretation
             1. Client Handbook
