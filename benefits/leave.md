@@ -6,7 +6,8 @@ possible. For planned time off (vacation, parental leave, etc.), thirty
 days would be best.
 
 Of course, things happen that cause us to miss a day here or there.  We
-understand this, so just let the Guide know as soon as possible.
+understand this, so just let the Guide know as soon as possible. We use
+the same procedure for these days.
 
 Communicate with your team and the Guide about the leave you will be
 taking. The Guide will help with scheduling a replacement and/or working
@@ -52,11 +53,26 @@ limited due to the abbreviated time in the program.
 
 The following is the process to obtain approval for scheduled time off.
 
-1. Talk with the Guide
+#### What You Do
 
-  Let the Guide know about your request. This is important because we
-  need to make sure the project is covered and the Guide is responsible
-  for scheduling.
+1. Email your Request
+
+  Send an email to [timeoff@gaslight.co][timeoff] with the requested
+  dates of your leave.  This is to let the Guide know about your
+  request. This is important because we need to make sure the project is
+  covered and the Guide is responsible for scheduling.
+
+  Include:
+
+  * Start and end date
+  * Optional, but may be used to determine priority: Reason for leave
+
+#### What the Guide Does
+
+1. Approve or Deny the Request
+
+  We'll take project load, other requests, etc. in to account during the
+  process. We need to make sure we can cover all of our work.
 
 1. Update the Schedule
 
@@ -64,10 +80,15 @@ The following is the process to obtain approval for scheduled time off.
   approved, adjust the weekly schedule on the [Gaslight App][scheduler]
   to include the time off.
 
-1. Email the Team and Client
+1. Notifies the appropriate teams
 
-  Email gaslighters@googlegroups.com and make sure the rest of the team and
-  clients know you'll be off.
+  Email [gaslighters@googlegroups.com][gaslighters] and make sure the
+  rest of the team and clients know you'll be off.
+
+1. Updates the time tracker
+
+  We want to make sure everyone is taking enough leave, so we track time
+  taken.
 
 When possible, time off requests are granted, taking into account operating
 requirements. If there is an issue granting everyone's time off, length of
@@ -146,4 +167,6 @@ written approval of the managing partner.
 
 [scheduler]: http://dashboard.gaslight.co/schedule 
 [fmla]: http://www.dol.gov/whd/fmla/
+[timeoff]: mailto:timeoff@gaslight.co
+[gaslighters]: mailto:gaslighters@googlegroups.com
 
