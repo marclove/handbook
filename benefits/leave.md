@@ -1,4 +1,4 @@
-# Work Leaves
+# Time Off and Work Leaves
 
 Taking time off can affect Gaslight's cash flow, project schedules,
 and client expectations, so we appreciate being informed as far ahead as
@@ -12,26 +12,6 @@ the same procedure for these days.
 Communicate with your team and the Guide about the leave you will be
 taking. The Guide will help with scheduling a replacement and/or working
 with the client.
-
-## During a Leave
-
-### Medical Insurance
-
-Unless otherwise stated, and to the extent allowed by the insurance
-contract, we will continue to provide medical insurance coverage during
-your leave. During this time, you will be responsible for paying the
-monthly premium(s) for your coverage.
-
-### Benefits/Reviews
-
-Unless otherwise stated, your benefits will not continue to accrue, and
-you will not receive quarterly reviews during the period of leave.
-
-### Other Employment
-
-While on leave, employees may not accept other employment. Acceptance of
-other employment while on leave will be treated as a voluntary
-resignation from employment.
 
 ## Paid Time Off
 
@@ -100,6 +80,34 @@ If you must take an extended period of time off (more than 15 out of 20
 business days) this is a special case and requires approval from both
 the Guide and the Managing Partner.
 
+## Leave of Absence
+
+Under special circumstances, full-time and part-time regular employees
+may be granted a leave of absence without pay. The granting of this type
+of leave is normally for compelling reasons and is dependent upon the
+written approval of the managing partner.
+
+## During a Leave
+
+### Medical Insurance
+
+Unless otherwise stated, and to the extent allowed by the insurance
+contract, we will continue to provide medical insurance coverage during
+your leave. During this time, you will be responsible for paying the
+monthly premium(s) for your coverage.
+
+### Benefits/Reviews
+
+Unless otherwise stated, your benefits will not continue to accrue, and
+you will not receive quarterly reviews during the period of leave.
+
+### Other Employment
+
+While on leave, employees may not accept other employment. Acceptance of
+other employment while on leave will be treated as a voluntary
+resignation from employment.
+
+
 ## Parental Leave
 
 Note: Currently, [FMLA][fmla] doesn't apply to our company as we're
@@ -157,13 +165,6 @@ the period of leave in accordance with state and federal law.
 Any employee who is requested to perform service as a juror shall be
 given unpaid time off while serving on the jury. Paid time off can also
 be used concurrently with this leave.
-
-## Leave of Absence
-
-Under special circumstances, full-time and part-time regular employees
-may be granted a leave of absence without pay. The granting of this type
-of leave is normally for compelling reasons and is dependent upon the
-written approval of the managing partner.
 
 [scheduler]: http://dashboard.gaslight.co/schedule 
 [fmla]: http://www.dol.gov/whd/fmla/
