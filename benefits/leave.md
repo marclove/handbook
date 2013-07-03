@@ -96,11 +96,6 @@ contract, we will continue to provide medical insurance coverage during
 your leave. During this time, you will be responsible for paying the
 monthly premium(s) for your coverage.
 
-### Benefits/Reviews
-
-Unless otherwise stated, your benefits will not continue to accrue, and
-you will not receive quarterly reviews during the period of leave.
-
 ### Other Employment
 
 While on leave, employees may not accept other employment. Acceptance of
