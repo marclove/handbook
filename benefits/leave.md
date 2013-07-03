@@ -80,14 +80,12 @@ If you must take an extended period of time off (more than 15 out of 20
 business days) this is a special case and requires approval from both
 the Guide and the Managing Partner.
 
-## Leave of Absence
+## Extended Leave of Absence
 
 Under special circumstances, full-time and part-time regular employees
 may be granted a leave of absence without pay. The granting of this type
 of leave is normally for compelling reasons and is dependent upon the
 written approval of the managing partner.
-
-## During a Leave
 
 ### Medical Insurance
 
@@ -103,7 +101,7 @@ other employment while on leave will be treated as a voluntary
 resignation from employment.
 
 
-## Parental Leave
+### Parental Leave
 
 Note: Currently, [FMLA][fmla] doesn't apply to our company as we're
 under the employee limit. We've outlined our parental leave policy
@@ -121,7 +119,7 @@ anticipated date of their return.
 The company will continue to fully contribute to insurance premiums per
 company policy for up to 6 months.
 
-## Medical Leave
+### Medical Leave
 
 Employees are eligible for an unpaid medical leave due to
 non-occupational illness, injury or pregnancy-related disability.
@@ -136,7 +134,7 @@ return to your normal duties.
 The company will continue to fully contribute to insurance premiums per
 company policy for up to 6 months.
 
-## Military Leave
+### Military Leave
 
 Employees who are required to fulfill military obligations in any branch
 of the Armed Forces of the United States or in state military service
@@ -155,7 +153,7 @@ notify the management of your intent to return to employment based on
 requirements of the law. Your benefits may continue to accrue during
 the period of leave in accordance with state and federal law.
 
-## Jury Duty
+### Jury Duty
 
 Any employee who is requested to perform service as a juror shall be
 given unpaid time off while serving on the jury. Paid time off can also
