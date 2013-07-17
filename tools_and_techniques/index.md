@@ -50,3 +50,11 @@ Why not Bourbon & Bourbon Neat?
   * Bourbon does not provide default styles and JavaScript components which are
     useful for rapid UI development without custom style.
 
+
+## Full-Stack Integration Testing
+
+### Cucumber & Capybara
+
+For full-stack integration testing of Ruby on Rails applications, Gaslight
+prefers using Cucumber and Capybara.
+
