@@ -37,6 +37,8 @@
                 1. Pair Programming
                 1. Test Driven Development
                 1. Code Review
+    1. [Tools and Techniques](tools_and_techniques/index.md)
+
 1. Sharing
   1. Blogging
   1. Podcast
