@@ -6,10 +6,10 @@ Gaslight is looking for an exceptional person to join our team as our Office Man
 
 * Scheduling/Coordination
   * Ensure monthly user groups are scheduled
-    * Sponsorship
-    * Food
-    * Topics
-    * Marketing
+     * Sponsorship
+     * Food
+     * Topics
+     * Marketing
   * Help schedule and arrange meetings
   * Training events
     * Coordinate remote facility arrangements
