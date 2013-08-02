@@ -36,7 +36,8 @@ As with any team member, we also look for character strengths such as:
 * Curiosity (eager to explore, asks questions to understand, actively listens)
 * Optimism (gets over frustrations quickly)
 * Grit (finishes what he or she starts, doesn’t get blocked)
-* Emotional intelligence (demonstrates respect for others’ feelings, knows when and how to include others) * * Humor (likes to laugh, makes others smile)
+* Emotional intelligence (demonstrates respect for others’ feelings, knows when and how to include others)
+* Humor (likes to laugh, makes others smile)
 * Appreciation of beauty (notices and appreciates beauty and excellence).
 
 This is a full-time position with competitive salary and exceptional benefits, which include unlimited time off and 100% of medical premiums paid.
