@@ -1,0 +1,19 @@
+# Expenses
+
+We will make every effort to reimburse approved expenses as quickly as
+possible. Our goal is to make this process as painless as possible.
+
+To that end, we use [Expensify](http://expensify.com) to both capture
+expenses and submit expense reports.
+
+If you install the expensify iPhone app, you can take photos of
+receipts at time of purchase. You do not need to retain the paper
+receipt. Having the photo is enough. All expenses need to be
+classified in expensify by the purchaser before submitting them for
+reimbursement.
+
+Group expenses together into an expense report and submit them to
+Dewayne through the expensify web site.
+
+Expense checks will be cut every Tuesday. Expense reports submitted by
+Monday will be considered for checks cut the next day.

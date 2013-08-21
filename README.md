@@ -56,6 +56,7 @@
       * forms
       * direct deposit
       * bonuses
+      * [Expense Reports](benefits/expenses.md)
       * [Accessing Pay Stubs](benefits/payroll.md)
    * Communications and Operations
       * [Weekly All Hands
@@ -96,4 +97,3 @@ Commons Attribution License](http://creativecommons.org/licenses/by/3.0/).
 The names and logos for Gaslight are trademarks of Gaslight, LLC.
 
 ![Gaslight Logo](assets/images/horizontal-logo.png)
-
