@@ -37,6 +37,7 @@
                 1. Pair Programming
                 1. Test Driven Development
                 1. Code Review
+                2. HOWTO [Hotfix](/process/developer_handbook/hotfix.md) between two branches
                 1. [Tools](/process/developer_handbook/tools.md)
 
 1. Sharing
