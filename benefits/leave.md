@@ -26,8 +26,9 @@ some time you want to take off makes sense.
 Salaried employees are eligible for paid time off, which can be used for
 sick, personal and vacation time.
 
-Co-Ops are eligible for paid time off as well, but time off should be
-limited due to the abbreviated time in the program.
+Co-Ops are eligible for limited paid time off, which can be used for sick or personal time. 
+Due to the co-op program not being a full-time salaried employee position, paid time-off 
+requests will be approved on a case by case basis.
 
 ### How it works
 
