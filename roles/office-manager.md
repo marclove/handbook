@@ -1,7 +1,5 @@
 # Office Manager
 
-## Overview
-
 Gaslight is looking for an exceptional person to join our team as our Office Manager. We're looking
 for someone that is passionate about serving others and inspirational to those around them.  This
 person will make a significant impact as a team member in the following ways:
