@@ -17,3 +17,10 @@ Dewayne through the Expensify web site.
 
 Expense checks will be cut every Tuesday. Expense reports submitted by
 Monday will be considered for checks cut the next day.
+
+## Dates
+
+It's important that we close our books in a timely manner, so expenses
+for the prior month need to be submitted within three business days of
+previous month.
+
