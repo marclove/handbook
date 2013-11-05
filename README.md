@@ -40,6 +40,8 @@
                 2. HOWTO [Hotfix](/process/developer_handbook/hotfix.md) between two branches
                 1. [Tools](/process/developer_handbook/tools.md)
 
+    1. Logistics
+        1. [Office Manager](roles/office-manager.rb)
 1. Sharing
   1. Blogging
   1. Podcast
