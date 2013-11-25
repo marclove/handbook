@@ -83,7 +83,7 @@
 Lots of companies have handbooks, but a few of them make them publicly
 available. We were motivated to do the same by these fine folks:
 
-* [dojo4](http://https://github.com/dojo4/policy)
+* [dojo4](https://github.com/dojo4/policy)
 * [thoughtbot](https://github.com/thoughtbot/guides)
 * [Valve](http://www.valvesoftware.com/)
 
