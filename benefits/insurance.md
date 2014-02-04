@@ -2,11 +2,13 @@
 
 ### Health Insurance
 
-Our health insurance provider is United Health Care. Our plan is managed by [BradyWare](http://www.bradyware.com/).
+Our health insurance provider is United Health Care. Our plan is managed by [BW Employee Benefits](http://www.bwebenefits.com/).
 
-Currently, we offer two plans: a High Deductible plan and a PPO.
+Currently, we offer two plans: a High Deductible HSA plan and a traditional PPO.
 
 The provider listing is available at [http://www.uhc.com/find_a_physician.htm](http://www.uhc.com/find_a_physician.htm).
+
+Benefits are effective 30 days from your hire date.
 
 #### Health Savings Accounts
 
