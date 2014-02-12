@@ -34,6 +34,7 @@
                 1. The Tools
                 1. Engagement
             1. Developer Handbook
+                1. [Continuous Integration](/process/developer_handbook/continuous_integration.md)
                 1. Pair Programming
                 1. Test Driven Development
                 1. Code Review
