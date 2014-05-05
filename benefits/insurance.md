@@ -10,6 +10,14 @@ The provider listing is available at [http://www.uhc.com/find_a_physician.htm](h
 
 Benefits are effective 30 days from your hire date.
 
+#### Online Access
+
+To sign up for UHC River Valley E-Services:
+
+1. Visit https://www.uhcrivervalley.com/Common/account_registration.html.
+2. Choose "Member"
+3. Fill in the form and the additional information. You'll need your memeber ID, which is on your insurance card.
+
 #### Health Savings Accounts
 
 If you choose the HDHP, you can open a [health savings account](http://en.wikipedia.org/wiki/Health_savings_account) with your bank and have funds directly deposited every pay period. The funds are pre-tax.
