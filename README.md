@@ -75,6 +75,8 @@
       * [Health Insurance](benefits/insurance.md)
       * [Paid Leave](benefits/leave.md)
       * [Office Holidays](benefits/holidays.md)
+      * [401k](benefits/401k.md)
+      * [Payroll System](benefits/payroll.md)
    * Professional Development
    * Technology Stipend
    * Health/Fitness
