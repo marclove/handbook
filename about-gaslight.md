@@ -1,8 +1,6 @@
 # About Gaslight
 
-## Values
-
-### Shared Purpose
+## Shared Purpose
 
 > Gaslight exists to inspire creators to learn, build and share great
 things with our community.
@@ -92,3 +90,47 @@ every action we participate in will likely include some level of learning,
 building, and sharing. If a proposed action doesn't involve most or all of
 these three, it probably isn't something that we should do, or spend much time
 on.
+
+## Values
+
+### Transparency
+
+We share most financial information within the company. We let our clients know what is going on. We default to honesty. We don't value creating secrets. Although it may require a special request, anyone who wants information can usually get it by asking others. Very few questions are off limits.
+
+### Sustainable Work
+
+We value a comfortable work environment and a comfortable working pace. We discourage short-cuts today that will be expensive tomorrow. We do not work long hours to meet deadlines. We believe in moving projects forward at a steady pace over attempting large, risky jumps.
+
+### Autonomy
+
+We empower Gaslighters with information so that they can act autonomously. We let people know the intent and the vision of the company and let them decide how to execute. We expect people to be autonomous and we cultivate that autonomy. We support and value people's autonomous efforts. Speaking at conferences, writing open source tools, writing articles, educating themselves and honing their skills, examining and honing our process etc. When I think about accountability, I think about it in the scope of these autonomous efforts[
+
+These ideas are taken directly from a talk that @cdmwebs played when he talked about becoming the CEO:
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/psAXMqxwol8" frameborder="0" allowfullscreen></iframe>
+
+Here are some concept form the talk and David Marqet's website:
+
+* Give control, don’t take control. 
+* Create technical competence in the workplace. 
+* Be honest, public, and clear about the organization’s goals.
+* Move authority to where the information is.
+* Give the Benefit of the Doubt
+
+Best summarized from the prime directive that Doug linked to for our retrospectives:
+
+> We assume that everyone did the best job they could, given what they 
+> knew at the time, their skills and abilities, the resources available, 
+> and the situation at hand.
+
+### Focus On Process
+
+We value the process we have developed for working on projects. We continually look for ways to improve our process and share these ideas with our clients.
+
+### Pay it Forward
+
+This is how I would best describe our community involvement. We pay forward our knowledge and our successes, because there is value in cultivating the success of those who are hungry for it like we are, and value in being a part of that success. Especially on a local level.
+
+### Humility
+
+No matter how well we do, we can always be better.
