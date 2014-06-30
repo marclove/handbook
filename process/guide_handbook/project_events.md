@@ -25,6 +25,7 @@ Onboarding a project successfully requires that we educate the client about how 
   * Emphasize the importance of communication
   * Weekly standups
   * Project Health
+    Weekly checkins with the delivery manager
 5. Next Week - Friday
   * Project start meeting
 
@@ -42,4 +43,8 @@ Similarly, we communicate, with sufficient notice, changes to the project team t
 
 ## Ending an Engagement
 
-The upcoming end of the engagement is important for the client and the team. It serves as a reminder that we need to focus carefully during the last few weeks of a project. It also is an opportunity to talk about extending the engagement, or scheduling the next period of work. An email notification sent to the guide will soon be built that provides notice of this date 2 weeks out (TODO).
+The upcoming end of the engagement is important for the client and the team. It serves as a reminder that we need to focus carefully during the last few weeks of a project. It also is an opportunity to talk about extending the engagement, or scheduling the next period of work. An email notification sent to the guide will soon be built that provides notice of this date 3 weeks out (TODO). This allows us to have ongoing sales conversations with the client in the week before the required 2 week notice.
+
+## Scheduling a Retrospective
+
+We like to do retrospectives at the end of an engagement, or on some regular cadence such as every 6 weeks.
