@@ -14,7 +14,7 @@ objective viewpoint and a fresh set of the eyes to the application.
 The Gaslight office is closed on New Year's Day, Memorial Day, 4th of July,
 Labor Day, Thanksgiving, and the week between Christmas and New Year's (as a
 general rule). We also occasionally have company wide meetings or retreats.
-We'll provide notice one to two weeks of notice for these events.
+We'll provide one to two weeks of notice for these events.
 
 * Why we may rotate people on the project
 -----------------------------------------
