@@ -40,4 +40,12 @@ Video is the best way to have __almost__ face to face meetings with remote team 
 
 We have a shared Google calendar available to everyone. It's important to keep the content relevant to everyone here. Company holidays, individual days off, company wide events and meetings are all good things to add to the shared calendar. Avoid project specific things here.
 
+If you don't have access to the shared calendar, you can ask anyone to add you. Here's how to do that:
+
+1. Visit https://calendar.gaslight.co/
+2. Click the little settings arrow next to the "Gaslight - Shared" calendar in the sidebar.
+3. Click "Share this Calendar"
+4. Enter their Gaslight email address and allow them to manage sharing also.
+5. Click the "Save" button at the bottom of the list. Don't forget this one.
+
 
