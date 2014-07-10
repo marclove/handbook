@@ -44,8 +44,10 @@ If you don't have access to the shared calendar, you can ask anyone to add you. 
 
 1. Visit https://calendar.gaslight.co/
 2. Click the little settings arrow next to the "Gaslight - Shared" calendar in the sidebar.
+   ![](assets/images/shared-calendar-1.png)
 3. Click "Share this Calendar"
 4. Enter their Gaslight email address and allow them to manage sharing also.
+   ![](assets/images/shared-calendar-2.png)
 5. Click the "Save" button at the bottom of the list. Don't forget this one.
 
 
