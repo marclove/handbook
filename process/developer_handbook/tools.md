@@ -8,9 +8,9 @@ some topics may be more relevant to your work than others.
 
 ## CSS Style Frameworks
 
-### Foundation
+### Bootstrap
 
-Gaslight prefers to use the [Zurb Foundation framework](http://foundation.zurb.com/) for:
+Gaslight prefers to use the [Bootstrap](http://getbootstrap.com/) for:
 
   * Laying out page elements in a responsive grid
   * Bootstrapping a baseline of element styles
@@ -57,4 +57,3 @@ Why not Bourbon & Bourbon Neat?
 
 For full-stack integration testing of Ruby on Rails applications, Gaslight
 prefers using Cucumber and Capybara.
-
