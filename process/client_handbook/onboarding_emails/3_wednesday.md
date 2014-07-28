@@ -1,60 +1,29 @@
-Wednesday - Our Process
+Wednesday
 =======================
+[SUBJECT LINE] How We Collaborate With Clients
 
-Let's Talk Kanban
------------------
+[BODY]
 
-In preparation for our project kick-off next week, we want to let you know a
-little bit about our process.
+##We're All on the Same Team
 
-We believe that our process for developing software gives us an edge. This
-process is built on the principles of the Kanban manufacturing process. We
-emphasise:
+We believe clients play an integral role on our small project teams. In fact, we love it when clients come into the office and work side-by-side with us. Here's what to expect when we kick-off your project:
 
-* Small teams
-* A visual representation of work on a Kanban board
-* Limiting work in progress
-* Continuous feedback on the product and process
+**Daily Stand-Ups**  
+We meet with the product owner (that's you) on a daily basis. We call these short meetings stand-ups, and they often happen over the phone.
 
-We use a web tool called [Trello](https://trello.com/) that serves as our
-digital Kanban board. We'll cover more about the details of how we use it once
-the project starts, but for now you may want to get a head start by signing up
-for an account (it's free!).
+**Weekly Check-In Meeting**  
+Once a week we'll hold a longer check-in meeting to discuss big picture items, from process to priorities.
 
-[Sign up on Trello](https://trello.com/signup)
+**Project Management Software**  
+We use a free Web tool called [Trello](https://trello.com/) to manage work. You can get a head start now by creating a free account: [Sign up for Trello.](https://trello.com/signup)
 
-The life of a User Story
-------------------------
+When we kick of your project next week, we'll walk you through each of these items in more detail.
 
-We will divide the project into units of work that we call User Stories. Each
-one of these stories represents something that a user of a system wants to do.
-Often they are written in a format like this:
+Sincerely,  
+Peter Kananen  
+Project Guide
 
-    As a retail customer
-    I want to enter my credit card information
-    So that I can buy a shirt
-
-Once this story is understood by team (product owner, designer, and developers),
-the development team begins working on the software. When this functionality is
-ready, the story is "Ready for Acceptance". The product owner will use the
-software to act out the user story and make sure that it accomplishes the
-intended goal. If it works, then the story is accepted and development
-continues.
-
-Inevitably there are other things that come to mind when accepting a feature.
-What should we do when the user's credit card expires?  Wouldn't it be nice if
-the user could enter a backup credit card in case one is declined?  While each
-story may require some back and forth before it is accepted, it is important to
-keep the overall goal of the software in mind. We often ask: "What is the next
-most important thing to work on?" in order to refocus on the vision of the
-product and make sure we're not spending too much time on details at the expense
-of more critical features.
-
-Milestones
-----------
-
-At a higher level, we'll also create milestones for the project. A milestone
-represents a set of deliverable features that can be tested with users or used
-in a demo. Milestones help the team see the forest through the trees and keep
-the vision of the product in mind.
-
+[FOOTER]  
+Our Office Address:
+[11126 Kenwood Rd
+Blue Ash, OH 45242](https://www.google.com/maps/place/Gaslight/@39.24869,-84.3849509,11z/data=!4m5!1m2!2m1!1sgaslight!3m1!1s0x0:0x78e0b21721f1d1a9)

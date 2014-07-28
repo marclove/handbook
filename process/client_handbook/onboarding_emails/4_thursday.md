@@ -1,50 +1,29 @@
-Thursday - Client Engagement
+Thursday
 ============================
+[SUBJECT]
+An Introduction to User Stories
 
-Waterfall Development
----------------------
+[EMAIL BODY]
 
-Our most successful projects at Gaslight have very engaged clients. To
-understand what it looks like when a client is engaged in the development
-processes, we need to understand the opposite: a "waterfall" or "over the wall"
-approach to development.
+##User Stories 101: Planning Development Work
 
-Historically software development has been characterized by a series of
-sequential steps now referred to as "waterfall". Someone defines all the
-requirements, someone creates the entire system, and someone tests that system.
-The idea is simple: The business knows what it wants and the engineers know how
-to build it.
+When we kick off your project, we'll work together to identify user stories. These are the things people who use your software want to do. They often look like this:
 
-Agile Development
------------------
+    As a retail customer
+    I want to enter my credit card information
+    So that I can buy a shirt
 
-Unfortunately it is not realistic to expect someone to create complete
-requirements for any significant software project, no matter how much experience
-they have. As software is built the scope and direction inevitably changes.
+Once this story is understood by the team (product owner, designer, and developers), the development work begins. Then we'll work together to test and refine the feature.
 
-Requirements always change because every day the team understands the problem
-better than the day before. They may learn about a new critical feature that
-must be added or they may find that a key feature is no longer important.
+Often one user story leads to another: What should we do when a user's credit card expires? Do we want users to be able to enter a back-up credit card?
 
-Instead of fighting it, we embrace this evolving process by:
+We'll balance these questions with the overall goal of the software to identify the most important thing to build next.
 
-* Always having working software to maximize learning
-* Reassessing priorities often
-* Having the team communicate on a daily basis
+Sincerely,  
+Peter Kananen  
+Project Guide
 
-To this end, engaged clients:
-
-* Are available for frequent communication (daily meetings)
-* Understand the purpose of the software being built
-* Have a stake in the success of the project
-
-What to Expect
---------------
-
-The product owner meets with the development team on a daily basis. We often
-call these meetings "Stand Ups", a term from Agile Software Development
-where the team stands in a circle for a quick discussion.  Because people aren't
-sitting down, these meetings tend to be quick and only cover day-to-day work.
-
-On a weekly basis we'll have a check-in meeting where we discuss bigger picture
-items, talk about the process, and reset priorities for work.
+[FOOTER]  
+Our Office Address:
+[11126 Kenwood Rd
+Blue Ash, OH 45242](https://www.google.com/maps/place/Gaslight/@39.24869,-84.3849509,11z/data=!4m5!1m2!2m1!1sgaslight!3m1!1s0x0:0x78e0b21721f1d1a9)
