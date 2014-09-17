@@ -9,3 +9,4 @@ In order to prevent individual's email addresses from being tied to service acco
 1. After the group is created, click Access Settings
 1. Under Permissions on the left side, click Posting permissions
 1. Click the "Select groups of users" select box next to "Post" and check "Public"
+1. Click "Save" button at the top
