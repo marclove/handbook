@@ -28,11 +28,11 @@ Lists in Trello have a card at the top to indicate what the column means. It's i
 
 ## Ownership
 
-When a hiring need is identified, an owner for that hiring need is appointed. A column and [wip] number should indicate the number of positions for that role we're hiring. We don't have a great way to designate the hiring need owner, but we can just drop a card in that column in Trello. Sometimes, the owner delegates activities (such as pairing) to someone else. That person should be added to the specific card and their required action should be communicated and confirmed. When their involvement is over, they can be removed from the card.
+When a hiring need is identified, an owner for that hiring need is appointed. A column and [wip] number should indicate the number of positions for that role we're hiring. We don't have a great way to designate the hiring need owner, but for now we're just adding that info the list title. Sometimes, the owner delegates activities (such as pairing) to someone else. That person should be added to the specific card and their required action should be communicated and confirmed. When their involvement is over, they can be removed from the card.
 
 ## Process
 
-Incoming candidates land in 'Inbox for Review' and should be responded to within a day. We don't want to leave people hanging. As people move through the process, we should minimize the feedback loop time for response. This should be indicated through due dates on the card. In addition, when activities are scheduled, we should make note of the activity and have a due date representing that activity. The person responsible for that activity is held accountable for making sure the activity occurrs on time. 
+Incoming candidates land in 'Inbox for Review' and should be responded to within a day. We don't want to leave people hanging. As people move through the process, we should minimize the feedback loop time for response. This should be indicated through due dates on the card. In addition, when activities are scheduled, we should make note of the activity and have a due date representing that activity. The person responsible for that activity is held accountable for making sure the activity occurrs on time.
 
 ## Activities
 
@@ -40,7 +40,7 @@ As described above, activities should be clearly understood and assigned and com
 
 ## Decisions
 
-If we or the candidate declines to progress further in the hiring process, they should be moved either to the 'They Passed' or 'We Passed' lists. If they are hired, they should be moved to the specific role need list and the list details should be updated.
+If we or the candidate declines to progress further in the hiring process, they should be moved either to the 'They Passed' or 'We Passed' lists. If they are determined to not be worthy of a screening or second interview, it may make sense to move them to 'Recruiting Contact' instead. This process is a little fuzzy right now. If they are hired, they should be moved to the specific role need list and the list details should be updated.
 
 ## Offers
 
