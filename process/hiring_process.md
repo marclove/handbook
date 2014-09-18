@@ -21,6 +21,7 @@ Cards representing people should contain the following:
 1. Attached Resume and cover letter
 1. Personal contact info
 1. github/portfolio links
+1. a label corresponding to the position
 
 ## Lists
 
@@ -32,7 +33,7 @@ When a hiring need is identified, an owner for that hiring need is appointed. A 
 
 ## Process
 
-Incoming candidates land in 'Inbox for Review' and should be responded to within a day. We don't want to leave people hanging. As people move through the process, we should minimize the feedback loop time for response. This should be indicated through due dates on the card. In addition, when activities are scheduled, we should make note of the activity and have a due date representing that activity. The person responsible for that activity is held accountable for making sure the activity occurrs on time.
+We require that all candidates officially apply for the position through the website. We often encourage candidates to apply, but we still want them to take the action of applying. People that we're "recruiting" to apply are placed in the "People we want to apply" list. When candidates apply through the website, Zapier places them in the 'Inbox for Review' list. They should be responded to within a day. We don't want to leave people hanging. As people move through the process, we should minimize the feedback loop time for response. This should be indicated through due dates on the card. In addition, when activities are scheduled, we should make note of the activity and have a due date representing that activity. The person responsible for that activity is held accountable for making sure the activity occurrs on time.
 
 ## Activities
 
