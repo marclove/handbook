@@ -12,11 +12,9 @@ receipt. Having the photo is enough. All expenses need to be
 classified in Expensify by the purchaser before submitting them for
 reimbursement.
 
-Group expenses together into an expense report and submit them to
-Dewayne through the Expensify web site.
+Group expenses together into an expense report and submit them through the Expensify web site.
 
-Expense checks will be cut every Tuesday. Expense reports submitted by
-Monday will be considered for checks cut the next day.
+Our accounting department is now using [Bill.com](http://app.bill.com) to direct deposit expense checks into your bank account. You can choose to still receive a paper check be sent by mail.
 
 ## Dates
 
