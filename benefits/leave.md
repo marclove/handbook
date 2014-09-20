@@ -105,7 +105,7 @@ resignation from employment.
 ### Parental Leave
 
 Note: Currently, [FMLA][fmla] doesn't apply to our company as we're
-under the employee limit. We've outlined our parental leave policy
+under the [50 employees within 75 miles limit](http://www.dol.gov/whd/regs/compliance/whdfs28.htm). We've outlined our parental leave policy
 below.
 
 Employees are eligible for a leave of absence without pay upon the birth
