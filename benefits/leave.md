@@ -2,14 +2,21 @@
 
 Research shows that the more people work, the less productive they become without the proper amount of time to recharge.
 
-Being sensetive to the personal well-being of each individual at Gaslight is as much a part of our culture as is how we deliver value to our clients. Not only is time-off promoted, it's required.
+Being sensitive to the personal well-being of each individual at Gaslight is as much a part of our culture as is how we deliver value to our clients. Not only is time-off promoted, it's required.
 
 It's also recognized in addition to personal well-being, taking time off can affect Gaslight's cash flow, project schedules,
-and client expectations, so we having a well formed policy for taking time off is very important for all.
+and client expectations, so having a well formed policy for taking time off is very important for all.
 
 ## Paid Time Off (PTO)
 
 Our PTO policy requires each team member take at minimum 2 weeks off each year with a maximum time off of 4 weeks. Sick time is excluded from this time off policy.
+
+
+### Sick Time
+
+If you're not feeling well, we want you to eat chicken soup and rest. If you're not feeling well, as early as possible, email [gaslighters@googlegroups.com][gaslighters] and/or notify the team in Slack that you will be out. Communication is important so that we can set the proper expectations with our clients.
+
+If you are experiencing a prolonged illness (more than 7 days), we've provided Short Term Disability to all full-time employees to help.
 
 
 ### Eligibility
@@ -43,7 +50,7 @@ The following is the process to obtain approval for scheduled time off.
 1. Approve or Deny the Request
 
   We'll take project load, other requests, etc. in to account during the
-  process. We need to make sure we can cover all of our work. The COO makes final decisions for time off requests.
+  process. We need to make sure we can cover all of our work. The COO makes final decisions concerning time off requests.
 
 1. Update the Schedule
 
