@@ -1,30 +1,20 @@
-# Time Off and Work Leaves
+# Time Off and Work Leave
 
-Taking time off can affect Gaslight's cash flow, project schedules,
-and client expectations, so we appreciate being informed as far ahead as
-possible. For planned time off (vacation, parental leave, etc.), thirty
-days would be best.
+Research shows that the more people work, the less productive they become without the proper amount of time to recharge.
 
-Of course, things happen that cause us to miss a day here or there.  We
-understand this, so just let the Guide know as soon as possible. We use
-the same procedure for these days.
+Being sensetive to the personal well-being of each individual at Gaslight is as much a part of our culture as is how we deliver value to our clients. Not only is time-off promoted, it's required.
 
-Communicate with your team and the Guide about the leave you will be
-taking. The Guide will help with scheduling a replacement and/or working
-with the client.
+It's also recognized in addition to personal well-being, taking time off can affect Gaslight's cash flow, project schedules,
+and client expectations, so we having a well formed policy for taking time off is very important for all.
 
-## Paid Time Off
+## Paid Time Off (PTO)
 
-Our time off policy is that employees can use their own judgment when taking
-time off and there will not be a set limit of time off that must be adhered to.
+Our PTO policy requires each team member take at minimum 2 weeks off each year with a maximum time off of 4 weeks. Sick time is excluded from this time off policy.
 
-Coordinate with the Project Guide and your team to figure out whether
-some time you want to take off makes sense.
 
 ### Eligibility
 
-Salaried employees are eligible for paid time off, which can be used for
-sick, personal and vacation time.
+Salaried employees are eligible for paid time off, which can be used for personal and vacation time.
 
 Co-Ops are eligible for limited paid time off, which can be used for sick or personal time. 
 Due to the co-op program not being a full-time salaried employee position, paid time-off 
@@ -39,21 +29,21 @@ The following is the process to obtain approval for scheduled time off.
 1. Email your Request
 
   Send an email to [timeoff@gaslight.co][timeoff] with the requested
-  dates of your leave.  This is to let the Guide know about your
-  request. This is important because we need to make sure the project is
-  covered and the Guide is responsible for scheduling.
+  dates of your leave.
 
   Include:
 
   * Start and end date
   * Optional, but may be used to determine priority: Reason for leave
+  * 1 to 2 day requests require 1 week notice
+  * 3+ days require 2 weeks notice
 
-#### What the Guide Does
+#### The Approval Process
 
 1. Approve or Deny the Request
 
   We'll take project load, other requests, etc. in to account during the
-  process. We need to make sure we can cover all of our work.
+  process. We need to make sure we can cover all of our work. The COO makes final decisions for time off requests.
 
 1. Update the Schedule
 
@@ -68,7 +58,7 @@ The following is the process to obtain approval for scheduled time off.
 
 1. Updates the time tracker
 
-  We want to make sure everyone is taking enough leave, so we track time
+  We want to make sure everyone is taking at least the minimum leave, so we track time
   taken.
 
 When possible, time off requests are granted, taking into account operating
@@ -77,16 +67,14 @@ employment may determine priority in scheduling time off. Requests may
 also be based on reason for the leave. For example, parental leave may
 take precedence over a vacation.
 
-If you must take an extended period of time off (more than 15 out of 20
-business days) this is a special case and requires approval from both
-the Guide and the Managing Partner.
+If you request an extended period of time off (more than 10 business days) this is a special case and requires approval from both the Guide and COO.
 
 ## Extended Leave of Absence
 
 Under special circumstances, full-time and part-time regular employees
 may be granted a leave of absence without pay. The granting of this type
 of leave is normally for compelling reasons and is dependent upon the
-written approval of the managing partner.
+written approval of the COO.
 
 ### Medical Insurance
 
